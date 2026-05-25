@@ -33,6 +33,7 @@ A personal finance analysis platform for tracking and understanding spending hab
 
 ### Fitness Tracker 
 A fitness tracking application for monitoring workouts, tracking health progress, and maintaining daily fitness goals.
+
 ---
 
 ## 📈 Currently Learning
